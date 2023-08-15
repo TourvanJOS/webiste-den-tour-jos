@@ -24,10 +24,7 @@ export default function Home() {
                     </div>
                     <div className={"my-5"}>
                         <h2 className={"text-white bg-josyellow w-fit  text-2xl"}>T-shirts</h2>
-                        <p>Zoals elk jaar kunnen jullie ook dit jaar den tour in een super toffe JOS-t-shirt lopen. Deze
-                            kan
-                            je
-                            bestellen via het inschrijvingsformulier.</p>
+                        <p>Dit jaar zullen er geen t-shirts beschikbaar zijn van den tour van Jos.</p>
                     </div>
                     <div className={"my-5 "}>
                         <h2 className={"text-white bg-joslightorange w-fit  text-2xl"}>Foto&apos;s</h2>
@@ -36,9 +33,9 @@ export default function Home() {
                             de foto&apos;s via onze Facebook.</a></p>
                     </div>
                     <div className={"my-5"}>
-                        <h2 className={"text-white bg-josorange w-fit  text-2xl"}>Vragen</h2>
-                        <p>Zit je nog met een vraag? Stuur ons gerust een mailtje:</p>
-                        <p><a href={"mailto:joggingnederokkerzeel@gmail.com"}>joggingnederokkerzeel@gmail.com</a></p>
+                        <h2 className={"text-white bg-josorange w-fit  text-2xl"}>Seingevers gezocht!</h2>
+                        <p>Voor onze tour van Jos hebben we een hele boel seingevers nodig. Loop je liever niet mee maar wil je ons toch helpen? Stuur een berichtje naar 0473 22 98 01 om dit verder af te spreken.</p>
+    
                     </div>
                 </div>
             </div>
